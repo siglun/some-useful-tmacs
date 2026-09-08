@@ -4,4 +4,5 @@ A collection of troff macros I use. I've collected them from different places an
 
 I add them to a repository through
 
- git submodule add -b main https://github.com/siglun/some-useful-tmacs.git tmac
+
+    git submodule add -b main https://github.com/siglun/some-useful-tmacs.git tmac
